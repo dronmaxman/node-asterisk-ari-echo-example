@@ -30,7 +30,7 @@ cp .env.example .env
 | `ARI_PASS` | ARI password | `secret` |
 | `ARI_VERIFY_SSL` | Set `0` to skip SSL verification | `0` |
 | `BRIDGE_TYPE` | Asterisk bridge type | `mixing,proxy_media` |
-| `RTP_ADVERTISE_HOST` | Public IP Node.js listens on (sent to Asterisk) | `95.158.35.47` |
+| `RTP_ADVERTISE_HOST` | Public IP Node.js listens on (sent to Asterisk) | `95.158.XX.XX` |
 | `RTP_PORT` | UDP port for RTP stream | `18080` |
 | `EXT_MEDIA_FORMAT` | Audio codec | `alaw` |
 
