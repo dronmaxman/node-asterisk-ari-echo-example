@@ -1,0 +1,13 @@
+{
+  "name": "tr5-asterisk-ari-node",
+  "version": "1.0.0",
+  "description": "Asterisk ARI ExternalMedia: record 5s and playback 5s",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ari-client": "^2.2.0",
+    "dotenv": "^16.0.0"
+  }
+}
