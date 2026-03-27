@@ -1,4 +1,4 @@
-# tr5-asterisk-ari-node
+# node-asterisk-ari-echo-example
 
 Asterisk ARI application using **ExternalMedia** (RTP):
 1. Answers an incoming call
